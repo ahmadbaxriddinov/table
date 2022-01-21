@@ -1,0 +1,13 @@
+@import "normalize";
+@import "general";
+@import "container";
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table th,
+table td {
+    padding: 15px;
+    border: 1px solid #000;
+}
